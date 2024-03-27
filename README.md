@@ -11,6 +11,10 @@ Use JavaScript to dynamise our App.
 ## LESSONS LEARNED:
 * Master the most common HTML tags to build an App.
 
+## SIMILAR PROJECT:
+
+**A COFFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
+
 
 
 
