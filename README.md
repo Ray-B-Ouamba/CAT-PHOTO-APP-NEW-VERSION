@@ -8,6 +8,10 @@ We have used the most common HTML tags to build an App to build a cat photo app.
 ## OPTIMIZATIONS
 Use JavaScript to dynamise our App. 
 
+## LESSONS LEARNED:
+* Master the most common HTML tags to build an App.
+
+
 
 
 
