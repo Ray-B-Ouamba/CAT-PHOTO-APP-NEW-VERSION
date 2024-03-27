@@ -5,6 +5,11 @@ We have used the most common HTML tags to build an App to build a cat photo app.
 
 **TECH USED:** HTML, CSS.
 
+## OPTIMIZATIONS
+Use JavaScript to dynamise our App. 
+
+
+
 
 
 
